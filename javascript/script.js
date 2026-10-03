@@ -16,5 +16,5 @@ function displayDate () {
 }
 
 function changeImage () {
-    document.getElementById("toChange").src = "trees.jpg"
+    document.getElementById("toChange").src = "/images/trees.jpg"
 }
