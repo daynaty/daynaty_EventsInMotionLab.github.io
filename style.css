@@ -1,0 +1,15 @@
+body {
+    background-image: url(lab\ 2\ gradient.jpg)
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+button {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+    padding: 5px;
+    background-color: #BF4D11;
+    border: 5px black;
+    border-radius: 5px;
+}
+
